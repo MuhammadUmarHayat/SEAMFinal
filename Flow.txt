@@ -1,0 +1,11 @@
+﻿
+
+
+Customer:
+Customer first Login
+view and search
+add to cart or add to wishlist(wish Table)
+edit or remove data from cart
+check out(add data to database)
+place order
+
